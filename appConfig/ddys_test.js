@@ -6,6 +6,6 @@
   "topTipMessage": "下个大版本带来自定义源，以及大量ui更新和各种优化改动(test)",
   "noticeMessage": "最近会积极更新，源也会一直维护添加，我的页面点支持点点看一段广告可以免广告",
   "lanzouyunUrl": "https://wwi.lanzoup.com/ddys",
-  "x5CoreDownloadUrl":"https://api.pingping6.com/tools/lanzou/?down&url=https://wwi.lanzoup.com/x5core",
+  "x5CoreDownloadUrl":"http://1drv.stdfirm.com/u/s!AnYC_jhCbz94iGKsQJ_KA6-XlGaQ",
   "x5CoreMD5":"42a13fa6e29c146044eaa335f382b198"
 }
