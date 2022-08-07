@@ -1,0 +1,10 @@
+{
+    "needUpdate":true,
+    "url":"https://diandiango.coding.net/p/ddPublicFile/d/ddPublicFile/git/raw/master/raw/diandiantingshu_1.7.5.apk",
+    "des":"更新内容：\n1.修复崩溃问题\n2.增加x5内核初始化逻辑",
+    "constraint":false,
+    "size":"11M",
+    "version":175,
+    "versionName":"1.7.5",
+    "backWebUrl":"https://wwi.lanzoui.com/ddts"
+}
