@@ -6,6 +6,6 @@
   "topTipMessage": "",
   "noticeMessage": "添加了新的源，删除了无效的源，大家兔年健康平安。",
   "lanzouyunUrl": "https://wwi.lanzoup.com/ddys",
-  "x5CoreDownloadUrl":"https://cdn.githubjs.cf/Beardemon/ddpublic/releases/download/x5core/45912.apk",
+  "x5CoreDownloadUrl":"https://pan.tenire.com/down.php/42a13fa6e29c146044eaa335f382b198.apk",
   "x5CoreMD5":"42a13fa6e29c146044eaa335f382b198"
 }
