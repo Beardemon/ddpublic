@@ -1,0 +1,10 @@
+{
+    "needUpdate":true,
+    "url":"https://pan.tenire.com/down.php/6c3892a49b440983a465e110ca7e62c7.apk",
+    "des":"\n1、修复直播不能播放的问题\n2、播放器内核更新",
+    "constraint":false,
+    "size":"17.1M",
+    "version":958,
+    "versionName":"9.5.8",
+    "backWebUrl":"https://wwi.lanzoup.com/ddys"
+}
