@@ -1,10 +1,10 @@
 {
-  "needUpdate":true,
-  "url":"https://pan.tenire.com/down.php/cf1ea03f017184bc610526c55b5039a6.apk",
-  "des":"\n1、修复不能登录，从而导致无法收藏无法追番的问题\n2、修复播放器的一些问题如缓冲不显示图标不显示网速，如奇怪的自动播放逻辑\n3、修复投屏后无法自动暂停播放的问题",
-  "constraint":false,
-  "size":"10.1M",
-  "version":956,
-  "versionName":"9.5.6",
-  "backWebUrl":"https://wwi.lanzoup.com/ddysnox5"
+    "needUpdate":true,
+    "url":"https://pan.tenire.com/down.php/683692d0233038232918e026b6b00706.apk",
+    "des":"\n1、修复直播不能播放的问题\n2、播放器内核更新",
+    "constraint":false,
+    "size":"17.9M",
+    "version":957,
+    "versionName":"9.5.7",
+    "backWebUrl":"https://wwi.lanzoup.com/ddysnox5"
 }
