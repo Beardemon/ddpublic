@@ -6,5 +6,5 @@
     "size":"17.9M",
     "version":957,
     "versionName":"9.5.7",
-    "backWebUrl":"https://wwi.lanzoup.com/ddysnox5"
+    "backWebUrl":"https://wwi.lanzoup.com/ddys"
 }
