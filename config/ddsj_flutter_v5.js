@@ -6,5 +6,5 @@
   "topTipMessage": "欢迎使用点点搜索，谢谢支持。",
   "allFunction":true,
   "shareUrl": "",
-  "showAd":true
+  "showAd":false
 }
