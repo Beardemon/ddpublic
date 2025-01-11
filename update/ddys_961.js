@@ -6,5 +6,5 @@
     "size":"12.3M",
     "version":961,
     "versionName":"9.6.1",
-    "backWebUrl":"https://wwi.lanzoup.com/ddys"
+    "backWebUrl":"https://wwuu.lanzouo.com/ddys"
 }
