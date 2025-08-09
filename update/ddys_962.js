@@ -1,0 +1,10 @@
+{
+    "needUpdate":true,
+    "url":"https://pan.tenire.com/down.php/d7f3a355800024a2c436ef518682d477.apk",
+    "des":"\n1、更新了获取源的一些规则，更新的话能用的源会变多。\n2、修复了首页一些不能加载的页面\n3、不再显示多余的广告",
+    "constraint":false,
+    "size":"10.3M",
+    "version":962,
+    "versionName":"9.6.2",
+    "backWebUrl":"https://wwuu.lanzouo.com/ddys"
+}
