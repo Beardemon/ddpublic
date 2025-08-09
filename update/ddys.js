@@ -1,10 +1,10 @@
 {
     "needUpdate":true,
-    "url":"https://pan.tenire.com/down.php/0ecdaa58483037e57cdc319bb0e1f60c.apk",
-    "des":"\n1、优化了播放器\n2、优化部分源站无法打开的问题\n3、去除开屏页广告，加快启动速度\n4、适当调整ui，增加启动提示上次观看弹框\n5、适配安卓14，修复下载视频的问题",
+    "url":"https://pan.tenire.com/down.php/d7f3a355800024a2c436ef518682d477.apk",
+    "des":"\n1、更新了获取源的一些规则，更新的话能用的源会变多。\n2、修复了首页一些不能加载的页面\n3、不再显示多余的广告",
     "constraint":false,
-    "size":"19.2M",
-    "version":960,
-    "versionName":"9.6.0",
-    "backWebUrl":"https://wwi.lanzoup.com/ddys"
+    "size":"10.3M",
+    "version":962,
+    "versionName":"9.6.2",
+    "backWebUrl":"https://wwuu.lanzouo.com/ddys"
 }
