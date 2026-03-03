@@ -1,0 +1,10 @@
+{
+    "needUpdate":true,
+    "url":"https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/po1XYIza",
+    "des":"\n1、修复各种失效的东西，如图片啥的。\n2、新增下载视频导出功能。\n3、更新一堆基础库。\n4、适配安卓16。\n5、修复安卓15以下崩溃问题",
+    "constraint":false,
+    "size":"10.0M",
+    "version":964,
+    "versionName":"9.6.4",
+    "backWebUrl":"https://wwbsu.lanzouv.com/ddys"
+}
